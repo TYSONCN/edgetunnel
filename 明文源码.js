@@ -1,7 +1,7 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '';
+let userID = '87bef0bd-5bbb-4951-810d-f60c94499674';
 let proxyIP = '';
 let sub = '';
 let subConverter = 'SUBAPI.fxxk.dedyn.io';
@@ -28,7 +28,7 @@ let addresses = [];
 let addressesapi = [];
 let addressesnotls = [];
 let addressesnotlsapi = [];
-let addressescsv = [];
+let addressescsv = [https://github.com/TYSONCN/goop/raw/refs/heads/main/9-2.csv];
 let DLS = 8;
 let remarkIndex = 1;//CSV备注所在列偏移量
 let FileName = atob('ZWRnZXR1bm5lbA==');

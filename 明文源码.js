@@ -28,7 +28,7 @@ let addresses = [];
 let addressesapi = [];
 let addressesnotls = [];
 let addressesnotlsapi = [];
-let addressescsv = [https://raw.githubusercontent.com/TYSONCN/goop/refs/heads/main/9-2.csv];
+let addressescsv = [];
 let DLS = 8;
 let remarkIndex = 1;//CSV备注所在列偏移量
 let FileName = atob('ZWRnZXR1bm5lbA==');
